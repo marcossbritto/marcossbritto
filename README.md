@@ -28,3 +28,15 @@ _**"Proteja seus sonhos como se fossem dados sensíveis: com foco, persistência
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
   <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 <p/>
+
+
+
+## 🥇 Certificações
+
+| Certificações | Nome |
+| --- | --- |
+| ![CISCO ITN](https://img.shields.io/badge/CISCO_Introduction%20To%20Networks-t?logo=cisco&logoColor=cisco&color=red) | CISCO Introduction To Networks | 
+| ![CISCO SRW](https://img.shields.io/badge/CISCO_Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-t?logo=cisco&logoColor=cisco&color=red) | CISCO Switching, Routing, and Wireless Essentials |
+
+
+   
