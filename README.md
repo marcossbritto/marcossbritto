@@ -37,6 +37,7 @@ _**"Proteja seus sonhos como se fossem dados sensíveis: com foco, persistência
 | --- | --- |
 | ![CISCO ITN](https://img.shields.io/badge/CISCO_Introduction%20To%20Networks-t?logo=cisco&logoColor=cisco&color=red) | CISCO Introduction To Networks | 
 | ![CISCO SRW](https://img.shields.io/badge/CISCO_Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-t?logo=cisco&logoColor=cisco&color=red) | CISCO Switching, Routing, and Wireless Essentials |
-
-
+| ![CISCO ENSA](https://img.shields.io/badge/CISCO_Enterprise%20Networking%2C%20Security%2C%20and%20Automation-t?logo=cisco&logoColor=cisco&color=red) | CISCO Enterprise Networking, Security, and Automation |
+| ![AWS CF](https://img.shields.io/badge/AWS_Academy%20Cloud%20Foundations-t?logo=Amazon%20web%20services&logoColor=aws&color=blue) | AWS Academy Cloud Foundations |
+| ![AWS CD](https://img.shields.io/badge/AWS_Academy%20Cloud%20Developing-t?logo=Amazon%20web%20services&logoColor=aws&color=blue) | AWS Academy Cloud Developing |
    
